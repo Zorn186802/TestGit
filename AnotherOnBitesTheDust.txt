@@ -35,6 +35,7 @@ Oh take it
 Bite the dust
 Bite the dust
 Hey
+== MY NEW LINE HERE
 Another one bites the dust
 Another one bites the dust oww
 Another one bites the dust hey hey
