@@ -39,8 +39,7 @@ That's why they call me Mister Fahrenheit
 I'm traveling at the speed of light
 I wanna make a supersonic woman of you
 Don't stop me, don't stop me
-== MY NEW LINE HERE
-== MY NEW LINE HERE
+$$$$$$$$$$$$$$$== MY NEW LINE HERE
 == MY NEW LINE HERE
 == MY NEW LINE HERE
 
@@ -63,10 +62,4 @@ Don't stop me now
 If you wanna have a good time (wooh)
 Just give me a call (alright)
 Don't stop me now ('cause I'm having a good time, yeah yeah)
-Don't stop me now (yes, I'm havin' a good time)
-I don't want to stop at all
-La da da da daah
-Da da da haa
-Ha da da ha ha haaa
-Ha da daa ha da da aaa
-Ooh ooh ooh
+Polompompopopo
