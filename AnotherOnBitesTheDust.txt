@@ -11,6 +11,7 @@ Another one bites the dust
 Another one bites the dust
 And another one gone, and another one gone
 Another one bites the dust
+> NEW CODE HERE
 Hey, I'm gonna get you, too
 Another one bites the dust
 How do you think I'm going to get along
@@ -19,6 +20,7 @@ You took me for everything that I had
 And kicked me out on my own
 Are you happy, are you satisfied? 
 How long can you stand the heat? 
+&& HERE MORE TEXT
 Out of the doorway the bullets rip
 To the sound of the beat
 Another one bites the dust
