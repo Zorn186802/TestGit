@@ -20,8 +20,7 @@ Don't stop me now, I'm having such a good time
 I'm having a ball
 && HERE MORE TEXT
 Don't stop me now
-== MY NEW LINE HERE
-== MY NEW LINE HERE
+HIHIHIHI== MY NEW LINE HERE
 
 If you wanna have a good time, just give me a call
 Don't stop me now ('cause I'm having a good time)
@@ -54,7 +53,7 @@ Alright
 Oh, I'm burnin' through the sky, yeah
 Two hundred degrees
 That's why they call me Mister Fahrenheit
-I'm traveling at the speed of light
+I'm travelin at the speed of light
 I wanna make a supersonic man out of you
 Don't stop me now, I'm having such a good time
 I'm having a ball
