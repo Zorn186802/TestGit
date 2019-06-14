@@ -12,6 +12,12 @@ Another one bites the dust
 And another one gone, and another one gone
 Another one bites the dust
 Hey, I'm gonna get you, too
+== MY NEW LINE HERE
+
+== MY NEW LINE HERE
+== MY NEW LINE HERE
+== MY NEW LINE HERE
+
 Another one bites the dust
 How do you think I'm going to get along
 Without you when you're gone? 
@@ -32,6 +38,7 @@ Oh take it
 Bite the dust
 Bite the dust
 Hey
+== MY NEW LINE HERE
 Another one bites the dust
 Another one bites the dust oww
 Another one bites the dust hey hey
