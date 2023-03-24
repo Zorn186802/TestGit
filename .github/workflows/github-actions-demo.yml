@@ -15,4 +15,18 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+      - name: Update the list of packages
+        run: sudo apt-get update
+      - name: Install pre-requisite packages.
+        run: sudo apt-get install -y wget apt-transport-https software-properties-common
+      - name: Download the Microsoft repository GPG keys
+        run: wget -q "https://packages.microsoft.com/config/ubuntu/$(lsb_release -rs)/packages-microsoft-prod.deb"
+      - name: Register the Microsoft repository GPG keys
+        run: sudo dpkg -i packages-microsoft-prod.deb
+      - name: Update the list of packages after we added packages.microsoft.com
+        run: sudo apt-get update
+      - name: Install PowerShell
+        run: sudo apt-get install -y powershell
+      - name: Start PowerShell
+        run: pwsh -Command 'Write-Host "From Powershell!"'
       - run: echo "🍏 This job's status is ${{ job.status }}."
